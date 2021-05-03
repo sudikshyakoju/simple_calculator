@@ -1,1 +1,2 @@
 # simple_calculator
+Introduction to Simple Calculator: Simple calculator allows users to calculate basic four operations in mathematics i.e. addition, subtraction, multiplication and division. This calculator is smart enough to calculate basic mathematical operations. This simple calculator is available in every laptop, desktop and mobiles, if not then peoples can find this kind of calculators in playstore.Thus,this simple calculator is very helpful to people to solve mathematical operations within a few seconds.
